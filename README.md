@@ -1,7 +1,8 @@
 # ClusteringLettuceSpecies
 Code to reproduce the clustering in the paper Masereeuw et al. (2022).
 
-The code uses as input an Excel file with 'Experiment' as first column and the name of an experiment as value. In this paper, these values were Inulin-FITC, ZO-1, PrestoBlue, Nuclei count, Alkaline Phosphatase, IL-6, IL-8, NO.
+The code uses as input an Excel file with 'Experiment' as first column and the name of an experiment as value. 
+In this paper, these values were Inulin-FITC, ZO-1, PrestoBlue, Nuclei count, Alkaline Phosphatase, IL-6, IL-8, NO.
 
 The second column, named 'Number', indicates the experimental run.
 
